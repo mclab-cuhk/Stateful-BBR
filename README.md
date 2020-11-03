@@ -1,7 +1,7 @@
 # Stateful-BBR
 This project presents the source code of Stateful-BBR, which has been submitted to a conference
 
-# Requirement for the kernel version >= 4.09
+# Requirement for the kernel version = 5.4.0-rc6
 1. Put both Makefile and tcp_sbbrv1.c/tcp_sbbrv2.c under the same dir.
 2. Compile the both files with command "make".
 3. You may need to install some libraries as indicated in the cmd, if you failed in executing the second step.
