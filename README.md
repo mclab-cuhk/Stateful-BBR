@@ -1,5 +1,5 @@
 # Stateful-BBR
-This project presents the source code of Stateful-BBR, which has been submitted to a conference
+This project presents the source code of Stateful-BBR, the corresponding paper has been accpeted by IWQOS 2021
 
 # Requirement for the kernel version = 5.4.0-rc6
 1. Put both Makefile and tcp_sbbrv1.c/tcp_sbbrv2.c under the same dir.
